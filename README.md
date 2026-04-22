@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Edson Lima
+# Edson Lima
 
 **Desenvolvedor Full Stack** | TypeScript • React • Node.js • .NET Core
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Sobre
+## Sobre
 
 Desenvolvedor Full Stack na **Agil.net**, especializado em construir aplicações modernas e escaláveis. Foco em **DDD**, **Clean Code** e integrações de sistemas.
 
@@ -20,7 +20,7 @@ Desenvolvedor Full Stack na **Agil.net**, especializado em construir aplicaçõe
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 **Frontend:** React • Next.js • Vue.js • TypeScript • Tailwind CSS
 
@@ -32,7 +32,7 @@ Desenvolvedor Full Stack na **Agil.net**, especializado em construir aplicaçõe
 
 ---
 
-## 🎯 Projetos
+## Projetos
 
 ### 🏆 [Atlas CRM](https://github.com/EdsonDevLima/AtlasCRM)
 Sistema de gerenciamento de vendas com autenticação JWT, dashboard interativo e integrações com APIs externas.
