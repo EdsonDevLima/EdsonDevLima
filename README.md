@@ -1,78 +1,124 @@
 <div align="center">
-  
-# Edson Lima
 
-**Desenvolvedor Full Stack** | TypeScript • React • Node.js • .NET Core
+<img width="100%" src="./assets/banner.png" alt="Edson Lima Banner"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edsonlimadev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edsonlimaagil@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-c8f04c?style=for-the-badge&logo=About.me&logoColor=141414)](https://salesflowcrm-front.onrender.com)
+# 👋 Olá, eu sou Edson Lima
+
+### Full Stack Developer
+
+Construindo aplicações modernas, escaláveis e orientadas a resultados.
+
+<p>
+  <a href="https://github.com/EdsonDevLima">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 </div>
 
 ---
 
-## Sobre
+## 🚀 Sobre Mim
 
-Desenvolvedor Full Stack na **Agil.net**, especializado em construir aplicações modernas e escaláveis. Foco em **DDD**, **Clean Code** e integrações de sistemas.
+Sou Desenvolvedor Full Stack com foco na criação de aplicações web modernas, APIs escaláveis e sistemas corporativos.
 
-**Stack atual:** Vue.js • Fastify • Node.js • TypeScript • MySQL
+Tenho interesse especial por arquitetura de software, desenvolvimento de produtos SaaS, automação de processos e integração de inteligência artificial em soluções de negócio.
 
----
+Atualmente desenvolvo projetos voltados para:
 
-## Tecnologias
-
-**Frontend:** React • Next.js • Vue.js • TypeScript • Tailwind CSS
-
-**Backend:** Node.js • NestJS • Fastify • .NET Core • C#
-
-**Database:** MySQL • SQL Server • PostgreSQL • Redis
-
-**DevOps:** Docker • Cloudflare • Git • GitLab • Linux
+* 💬 Chat em tempo real
+* 🤖 Chatbots e automações
+* 📱 Integração com WhatsApp
+* 📊 Sistemas de gestão corporativa
+* ⚡ APIs de alta performance
+* 🏗️ Arquitetura de software
 
 ---
 
-## Projetos
+## ⚙️ Stack Principal
 
-### 🏆 [Atlas CRM](https://github.com/EdsonDevLima/AtlasCRM)
-Sistema de gerenciamento de vendas com autenticação JWT, dashboard interativo e integrações com APIs externas.
+### Frontend
 
-**Stack:** React • Node.js • NestJS • TypeScript • MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
+</p>
 
-[![Demo](https://img.shields.io/badge/Demo-c8f04c?style=flat-square&logoColor=141414)](https://salesflowcrm-front.onrender.com) [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/EdsonDevLima/AtlasCRM)
+### Backend
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,cs,dotnet" />
+</p>
 
-### 🚧 [Atlas Vendas](https://github.com/EdsonDevLima/AtlasSite) ![Em Desenvolvimento](https://img.shields.io/badge/Em_Desenvolvimento-yellow?style=flat-square)
+### Banco de Dados
 
-Site de vendas integrado com a API do Atlas CRM.
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" />
+</p>
 
-**Stack:** Next.js • TypeScript • Tailwind CSS
+### DevOps & Ferramentas
 
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/EdsonDevLima/AtlasSite)
-
----
-
-### 🚧 [Sistema Hospitalar](https://github.com/EdsonDevLima/SystemSaude) ![Em Desenvolvimento](https://img.shields.io/badge/Em_Desenvolvimento-yellow?style=flat-square)
-
-Sistema de agendamento e gerenciamento de consultas com integração entre sistemas.
-
-**Stack:** C# • .NET • ASP.NET • DDD
-
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/EdsonDevLima/SystemSaude)
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,vscode" />
+</p>
 
 ---
 
-## 📫 Contato
+## 🏗️ Atualmente Construindo
+
+### Plataforma Omnichannel de Atendimento
+
+Uma solução corporativa que centraliza comunicação, atendimento e produtividade em um único ambiente.
+
+**Recursos:**
+
+* Atendimento via WhatsApp
+* Chat em tempo real
+* Chatbots inteligentes
+* Gestão de tarefas
+* Integração via APIs
+* Dashboard operacional
+* Controle de equipes
+
+---
+
+## 📚 Estudando
+
+* Clean Architecture
+* Domain Driven Design (DDD)
+* Microsserviços
+* Azure
+* Inteligência Artificial
+* Engenharia de Software
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edsonlimadev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edsonlimaagil@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5587996367039)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=EdsonDevLima&show_icons=true&hide_border=true" />
 
-**💼 Disponível para novas oportunidades**
-
-![Visitors](https://profile-counter.glitch.me/EdsonDevLima/count.svg)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonDevLima&layout=compact&hide_border=true" />
 
 </div>
+
+---
+
+## 🌐 Portfólio
+
+🔗 https://edsondevlima.github.io/NovoPortifolio/
+
+---
+
+## 🎯 Objetivo
+
+Desenvolver soluções robustas que unam tecnologia, automação e experiência do usuário para gerar impacto real em empresas e pessoas.
+
+---
+
+<div align="center">
+
+### "Transformando ideias em produtos digitais."
+
+</div>
+<img width="1584" height="396" alt="Edson lima" src="https://github.com/user-attachments/assets/eddf69eb-87b0-473b-a5f2-727b3d26bc55" />
