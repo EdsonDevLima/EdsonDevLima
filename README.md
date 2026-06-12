@@ -3,8 +3,12 @@
 <img width="1584" height="396" alt="Edson lima" src="https://github.com/user-attachments/assets/eddf69eb-87b0-473b-a5f2-727b3d26bc55" />
 
 <p>
-  <a href="https://github.com/EdsonDevLima">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  <a href="https://www.linkedin.com/in/edsonlimadev">
+    <img src="https://img.shields.io/badge/LinkedIn-Edson%20Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://edsondevlima.github.io/NovoPortifolio">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Demo-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
 </p>
 
