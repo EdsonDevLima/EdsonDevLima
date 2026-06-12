@@ -2,8 +2,6 @@
 
 <img width="1584" height="396" alt="Edson lima" src="https://github.com/user-attachments/assets/eddf69eb-87b0-473b-a5f2-727b3d26bc55" />
 
-Construindo aplicações modernas, escaláveis e orientadas a resultados.
-
 <p>
   <a href="https://github.com/EdsonDevLima">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
