@@ -108,14 +108,7 @@ Uma solução corporativa que centraliza comunicação, atendimento e produtivid
 
 ---
 
-## 🎯 Objetivo
-
-Desenvolver soluções robustas que unam tecnologia, automação e experiência do usuário para gerar impacto real em empresas e pessoas.
-
----
-
 <div align="center">
 
-### "Transformando ideias em produtos digitais."
 
 </div>
