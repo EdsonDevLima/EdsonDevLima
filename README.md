@@ -1,10 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/banner.png" alt="Edson Lima Banner"/>
-
-# 👋 Olá, eu sou Edson Lima
-
-### Full Stack Developer
+<img width="1584" height="396" alt="Edson lima" src="https://github.com/user-attachments/assets/eddf69eb-87b0-473b-a5f2-727b3d26bc55" />
 
 Construindo aplicações modernas, escaláveis e orientadas a resultados.
 
@@ -121,4 +117,3 @@ Desenvolver soluções robustas que unam tecnologia, automação e experiência 
 ### "Transformando ideias em produtos digitais."
 
 </div>
-<img width="1584" height="396" alt="Edson lima" src="https://github.com/user-attachments/assets/eddf69eb-87b0-473b-a5f2-727b3d26bc55" />
