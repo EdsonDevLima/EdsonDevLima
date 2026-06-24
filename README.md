@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
 Sou Desenvolvedor Full Stack com foco na criação de aplicações web modernas, APIs escaláveis e sistemas corporativos.
 
@@ -24,16 +24,16 @@ Tenho interesse especial por arquitetura de software, desenvolvimento de produto
 
 Atualmente desenvolvo projetos voltados para:
 
-* 💬 Chat em tempo real
-* 🤖 Chatbots e automações
-* 📱 Integração com WhatsApp
-* 📊 Sistemas de gestão corporativa
-* ⚡ APIs de alta performance
-* 🏗️ Arquitetura de software
+* Chat em tempo real
+* Chatbots e automações
+* Integração com WhatsApp
+* Sistemas de gestão corporativa
+* APIs de alta performance
+* Arquitetura de software
 
 ---
 
-## ⚙️ Stack Principal
+## Stack Principal
 
 ### Frontend
 
@@ -61,7 +61,7 @@ Atualmente desenvolvo projetos voltados para:
 
 ---
 
-## 🏗️ Atualmente Construindo
+## Atualmente Construindo
 
 ### Plataforma Omnichannel de Atendimento
 
@@ -79,7 +79,7 @@ Uma solução corporativa que centraliza comunicação, atendimento e produtivid
 
 ---
 
-## 📚 Estudando
+## Estudando
 
 * Clean Architecture
 * Domain Driven Design (DDD)
@@ -102,7 +102,7 @@ Uma solução corporativa que centraliza comunicação, atendimento e produtivid
 
 ---
 
-## 🌐 Portfólio
+## Portfólio
 
 🔗 https://edsondevlima.github.io/NovoPortifolio/
 
