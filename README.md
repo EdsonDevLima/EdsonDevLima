@@ -1,17 +1,3 @@
-<div align="center">
-<p>
-  <a  target="_blank" href="https://www.linkedin.com/in/edsonlimadev">
-    <img src="https://img.shields.io/badge/LinkedIn-Edson%20Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a target="_blank" href="https://edsondevlima.github.io/NovoPortifolio">
-    <img src="https://img.shields.io/badge/Portfolio-Live%20Demo-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white">
-  </a>
-</p>
-
-</div>
-
----
 
 ## Sobre Mim
 
